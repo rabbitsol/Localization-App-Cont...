@@ -1,0 +1,22 @@
+{
+    "titletext1": "Localization",
+    "language": "Language",
+    "nextbuttontext": "Next",
+    "titletext2": "SignIn",
+    "titletext3": "SocialSignUp",
+    "titletext4": "Dashboard",
+    "forgetpassword": "Forget Password",
+    "donthave": "Dont have account? ",
+    "signuptext": "SignUp",
+    "message": "Or Choose an account to SignUp With",
+    "remembermetext": "Remember me",
+    "mobilenumber": "Mobile Number",
+    "whatsappnumber": "WhatsApp Number",
+    "country": "Your Country",
+    "prefferedlanguage": "Your Preffered Language",
+    "confirmsignup": "Confirm Sign Up",
+    "Kuwait": "Kuwait",
+    "Pakistan": "Pakistan",
+    "phonenumber": "Phone Number",
+    "arabic": "Arabic"
+  }

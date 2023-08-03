@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1053062087313",
+    "project_id": "localizationapp-55c5c",
+    "storage_bucket": "localizationapp-55c5c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1053062087313:android:beede3c0a4ad3be4bef530",
+        "android_client_info": {
+          "package_name": "com.example.localizationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1053062087313-6m38eis5q4rb041chgj690lnc4dv3kk6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.localizationapp",
+            "certificate_hash": "334823954742e23363206186509376953438e288"
+          }
+        },
+        {
+          "client_id": "1053062087313-6t5in9ntgvg6p8dgjdk359u2cd3akcee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEIsrERlYJx1yp66yWf1yFl1HWK6KUVsc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1053062087313-6t5in9ntgvg6p8dgjdk359u2cd3akcee.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1053062087313-6q7beqhukm3i3vdre25l4tji04bb53dv.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.localizationapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
